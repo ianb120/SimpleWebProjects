@@ -1,0 +1,37 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fff;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+.backgroundChanger {
+    background-color: #565656;
+    margin: auto auto;
+    width: 50%;
+    border-radius: 25px;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.nameOfRandColour {
+    padding: 10px;
+    font-size: 30px;
+}
+
+.randomColourButton {
+    padding: 10px;
+    margin: 15px;
+    font-size: 20px;
+    color: #ffff00;
+    background-color: #776f6f;
+    border: 2px solid #000000;
+}
+
+.randomColourButton:active {
+    background-color: #ffa500;
+}
